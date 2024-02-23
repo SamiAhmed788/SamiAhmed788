@@ -1,3 +1,5 @@
+<marquee><h1 color="red"> Mern Stack Developer </h1> </marquee>
+
 <h1 align="center">
 -  👋 Hi, I’m @SamiAhmed788</h1>
 <h3 align="center">A passionate Mern Stack Developer</h3>
@@ -7,7 +9,7 @@
 
 - 🌱 I’m currently learning **Mern Stack Development**
 
-- 📫 How to reach me **umairghani156@gmail.com**
+- 📫 How to reach me **sami76748@gmail.com**
 
 <h3 align="left">Connect with me on :</h3>
 <p align="left">

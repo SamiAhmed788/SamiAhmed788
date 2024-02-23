@@ -1,4 +1,4 @@
-<marquee width="60%" direction="down" height="100px"> Mern Stack Developer </marquee>
+<img src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif?raw=true" ></img>
 
 <h1 align="center">
 -  👋 Hi, I’m @SamiAhmed788</h1>

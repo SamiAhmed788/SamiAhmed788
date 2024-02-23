@@ -4,7 +4,7 @@
 -  👋 Hi, I’m @SamiAhmed788</h1>
 <h3 align="center">A passionate Mern Stack Developer</h3>
 
-<img align="right" alt="coding" width="400" src="https://th.bing.com/th/id/OIP.fl_EgUYAV4TKdUBjsZ5g8wHaHa?pid=ImgDet&w=179&h=179&c=7&dpr=1.9">
+<img align="right" alt="coding" width="400" src="https://media.licdn.com/dms/image/D4D16AQHKUYtWC_W91Q/profile-displaybackgroundimage-shrink_350_1400/0/1708695024807?e=1714003200&v=beta&t=wRU2p8mJHvTXVahZB6zW9MOXvOIBvpx1mWd6HzKRw8U">
 <p align="left"> <img src="https://camo.githubusercontent.com/f7ffc12c1ab8cd509307ddfef26ad10d508cc12085768d9d9cd354cd9e206e51/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d756d6169726768616e69313536266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="samiahmed" /> </p>
 
 - 🌱 I’m currently learning **Mern Stack Development**

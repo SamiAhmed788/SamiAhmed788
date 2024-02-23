@@ -1,11 +1,11 @@
-<img src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif?raw=true" ></img>
+
 
 <h1 align="center">
 -  👋 Hi, I’m @SamiAhmed788</h1>
 <h3 align="center">A passionate Mern Stack Developer</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-<p align="left"> <img src="https://th.bing.com/th/id/OIP.U6W8lqHMDd2wdDedKocmIwAAAA?rs=1&pid=ImgDetMain" alt="samiahmed" /> </p>
+<img align="right" alt="coding" width="400" src="https://th.bing.com/th/id/OIP.fl_EgUYAV4TKdUBjsZ5g8wHaHa?pid=ImgDet&w=179&h=179&c=7&dpr=1.9">
+<p align="left"> <img src="https://camo.githubusercontent.com/f7ffc12c1ab8cd509307ddfef26ad10d508cc12085768d9d9cd354cd9e206e51/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d756d6169726768616e69313536266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="samiahmed" /> </p>
 
 - 🌱 I’m currently learning **Mern Stack Development**
 

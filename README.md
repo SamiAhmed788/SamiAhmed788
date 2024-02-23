@@ -1,4 +1,4 @@
-<marquee><h1 color="red"> Mern Stack Developer </h1> </marquee>
+<marquee width="60%" direction="down" height="100px"> Mern Stack Developer </marquee>
 
 <h1 align="center">
 -  👋 Hi, I’m @SamiAhmed788</h1>

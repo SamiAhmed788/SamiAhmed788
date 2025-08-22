@@ -1,28 +1,87 @@
+<div align="center">
+  
+# 👋 Hello, I'm Sami Ahmed
 
+### 🚀 Full Stack MERN Developer | Building Digital Solutions
 
-<h1 align="center">
--  👋 Hi, I’m @SamiAhmed788</h1>
-<h3 align="center">A passionate Mern Stack Developer</h3>
+<img src="/placeholder.svg?height=200&width=200" alt="Sami Ahmed" width="200" height="200" style="border-radius: 50%; margin: 20px 0;" />
 
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/736x/a8/42/54/a84254ab421e96643fd62557d9cbff76.jpg">
-<p align="left"> <img src="https://camo.githubusercontent.com/f7ffc12c1ab8cd509307ddfef26ad10d508cc12085768d9d9cd354cd9e206e51/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d756d6169726768616e69313536266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="samiahmed" /> </p>
+[![Profile Views](https://komarev.com/ghpvc/?username=SamiAhmed788&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/SamiAhmed788)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/itx-sami-memon-here-943693282)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:sami76748@gmail.com)
 
-- 🌱 I’m currently learning **Mern Stack Development**
+</div>
 
-- 📫 How to reach me **sami76748@gmail.com**
+---
 
-<h3 align="left">Connect with me on :</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/itx-sami-memon-here-943693282" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umair ahmed" height="30" width="40" /></a>
-</p>
+## 🎯 About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<img align="right" alt="Coding Animation" width="300" src="https://i.pinimg.com/736x/a8/42/54/a84254ab421e96643fd62557d9cbff76.jpg" style="margin-left: 20px;" />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samiahmed7886&show_icons=true&locale=en&layout=compact" alt="umairghani156" /></p>
+- 🔭 **Currently Working On:** Full Stack Web Applications using MERN Stack
+- 🌱 **Learning:** Advanced React Patterns, Node.js Best Practices, and Cloud Technologies
+- 💡 **Passionate About:** Creating efficient, scalable, and user-friendly web solutions
+- 📧 **Reach Me At:** [sami76748@gmail.com](mailto:sami76748@gmail.com)
+- ⚡ **Fun Fact:** I love turning complex problems into simple, elegant solutions!
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samiahmed788&show_icons=true&locale=en" alt="umairghani156" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samiahmed788&" alt="umairghani156" /></p>-
--
+## 🛠️ Tech Stack & Tools
 
+<div align="center">
+
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SamiAhmed788&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamiAhmed788&layout=compact&langs_count=8&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
+  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=SamiAhmed788&theme=tokyonight)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+
+I'm always interested in collaborating on exciting projects and learning from fellow developers. Feel free to reach out!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itx-sami-memon-here-943693282)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sami76748@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SamiAhmed788)
+
+---
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+*"Code is like humor. When you have to explain it, it's bad." – Cory House*
+
+</div>

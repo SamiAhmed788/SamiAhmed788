@@ -1,87 +1,99 @@
 <div align="center">
-  
-# 👋 Hello, I'm Sami Ahmed
 
-### 🚀 Full Stack MERN Developer | Building Digital Solutions
+# Sami Ahmed  
+### Software Engineer | Founder @ Entrovex | Full Stack & Cloud Developer
 
-<img src="/placeholder.svg?height=200&width=200" alt="Sami Ahmed" width="200" height="200" style="border-radius: 50%; margin: 20px 0;" />
-
-[![Profile Views](https://komarev.com/ghpvc/?username=SamiAhmed788&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/SamiAhmed788)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/itx-sami-memon-here-943693282)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:sami76748@gmail.com)
+<p>
+  <a href="https://www.linkedin.com/in/itx-sami-memon-here-943693282">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:sami76748@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Business%20Inquiries-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=SamiAhmed788&label=Profile%20Views&color=0A66C2&style=flat" alt="profile views"/>
+</p>
 
 </div>
 
 ---
 
-## 🎯 About Me
+## Professional Summary
 
-<img align="right" alt="Coding Animation" width="300" src="https://i.pinimg.com/736x/a8/42/54/a84254ab421e96643fd62557d9cbff76.jpg" style="margin-left: 20px;" />
+I am a Software Engineer with 3+ years of experience designing, developing, and deploying scalable web and mobile applications.
 
-- 🔭 **Currently Working On:** Full Stack Web Applications using MERN Stack
-- 🌱 **Learning:** Advanced React Patterns, Node.js Best Practices, and Cloud Technologies
-- 💡 **Passionate About:** Creating efficient, scalable, and user-friendly web solutions
-- 📧 **Reach Me At:** [sami76748@gmail.com](mailto:sami76748@gmail.com)
-- ⚡ **Fun Fact:** I love turning complex problems into simple, elegant solutions!
+As the Founder of **Entrovex**, I lead digital transformation initiatives, helping businesses build high-performance systems using modern cloud and DevOps practices.
+
+My expertise spans across full-stack development, cloud infrastructure, containerization, and CI/CD automation.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Core Expertise
+
+### Full Stack Development
+- React.js
+- React Native (Mobile App Development)
+- JavaScript (ES6+)
+- Node.js & Express.js
+- RESTful API Architecture
+- MongoDB Database Design
+
+### Cloud & DevOps
+- AWS (Deployment & Cloud Infrastructure)
+- Docker (Containerization)
+- CI/CD Pipelines
+- GitHub Actions
+- Environment Configuration & Production Deployment
+
+### Architecture & Engineering Practices
+- Scalable Backend Design
+- Secure Authentication Systems
+- Role-Based Access Control
+- API Optimization
+- Clean Code & Modular Architecture
+
+---
+
+## Founder – Entrovex
+
+At **Entrovex**, we build scalable digital products for startups and businesses.
+
+Services Include:
+- Custom Web Applications  
+- Mobile App Development (React Native)  
+- Admin Panels & Dashboards  
+- API Development & System Architecture  
+- Cloud Deployment & DevOps Setup  
+- Business Automation Systems  
+
+---
+
+## GitHub Analytics
 
 <div align="center">
 
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SamiAhmed788&show_icons=true&include_all_commits=true&count_private=true"/>
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamiAhmed788&layout=compact&langs_count=8"/>
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## Engineering Philosophy
 
-<div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SamiAhmed788&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamiAhmed788&layout=compact&langs_count=8&theme=tokyonight"/>
+I build systems that are:
 
-</div>
+- Scalable  
+- Maintainable  
+- Performance-Driven  
+- Production-Ready  
 
-<div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=SamiAhmed788&theme=tokyonight)](https://git.io/streak-stats)
-
-</div>
+My goal is not just to develop applications — but to engineer reliable digital products that create long-term value.
 
 ---
 
-## 🤝 Let's Connect!
+## Contact
 
-<div align="center">
+📧 sami76748@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/itx-sami-memon-here-943693282  
 
-I'm always interested in collaborating on exciting projects and learning from fellow developers. Feel free to reach out!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itx-sami-memon-here-943693282)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sami76748@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SamiAhmed788)
-
----
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-*"Code is like humor. When you have to explain it, it's bad." – Cory House*
-
-</div>
